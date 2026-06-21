@@ -47,7 +47,7 @@ span.author::before {
 .date, .author {
     font-size: 0.8rem;
     margin: 0;
-}
+}r
 
 p.summary {
     margin: 0;
@@ -66,5 +66,7 @@ img {
   width: auto;
   max-width: 500px;
   max-height: 300px;
+  display: block;
+  margin:1.5rem auto;
   height: auto;
 }
