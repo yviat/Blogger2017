@@ -63,7 +63,8 @@ ul.post-list{
 }
 
 img {
-  width: 100%;
-  max-width: 800px;
+  width: auto;
+  max-width: 500px;
+  max-height: 300px;
   height: auto;
 }
